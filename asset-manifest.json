@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shaverma-tour/static/css/main.95879fbe.css",
+    "main.css": "/shaverma-tour/static/css/main.6b16e832.css",
     "main.js": "/shaverma-tour/static/js/main.2e26908d.js",
     "index.html": "/shaverma-tour/index.html",
-    "main.95879fbe.css.map": "/shaverma-tour/static/css/main.95879fbe.css.map",
+    "main.6b16e832.css.map": "/shaverma-tour/static/css/main.6b16e832.css.map",
     "main.2e26908d.js.map": "/shaverma-tour/static/js/main.2e26908d.js.map"
   },
   "entrypoints": [
-    "static/css/main.95879fbe.css",
+    "static/css/main.6b16e832.css",
     "static/js/main.2e26908d.js"
   ]
 }
